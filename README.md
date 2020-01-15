@@ -7,7 +7,7 @@ This is the tutorial(s) homepage for MATH 1AA3 and 1ZB3 (Winter 2020) managed by
 - TA: Anthony Tan
 - E-mail: tana4@mcmaster.ca 
 - Office: Math Help Centre (Hamilton Hall, Room 104)
-- Office hours: Monday 2:30 PM - 3:30 PM, Friday 2:00 PM - 4:00 PM
+- Office hours: Monday 2:30 PM - 3:30 PM, Friday 2:30 PM - 4:30 PM
 
 ## Course Information
 
