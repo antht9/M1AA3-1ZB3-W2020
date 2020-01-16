@@ -12,3 +12,8 @@ This is the tutorial(s) homepage for MATH 1AA3 and 1ZB3 (Winter 2020) managed by
 ## Course Information
 
 - Course webpage: https://ms.mcmaster.ca/~mcleac3/math1ZB3/mainCalc2.html
+
+
+## Announcements
+
+- (01/16/2020) Tutorial 1 note posted. Feel free to provide any comments or feedback.
