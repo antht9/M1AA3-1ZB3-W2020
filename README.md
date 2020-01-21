@@ -17,3 +17,4 @@ This is the tutorial(s) homepage for MATH 1AA3 and 1ZB3 (Winter 2020) managed by
 ## Announcements
 
 - (01/16/2020) Tutorial 1 note posted. Feel free to provide any comments or feedback.
+- (01/20/2020) Tutorial 1 note reposted. Minor correction to exercise 1(b): s goes to negative infinity, not 0 (from the left).
