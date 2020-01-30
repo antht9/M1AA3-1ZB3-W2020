@@ -26,3 +26,5 @@ Students are welcome to attend my other tutorials provided there is room.
 - (01/16/2020) Tutorial 1 note posted. Feel free to provide any comments or feedback.
 - (01/20/2020) Tutorial 1 note reposted. Minor correction to exercise 1(b). Thank you for the catch!
 - (01/25/2020) Tutorial 2 note posted. 
+- (01/29/2020) Tutorial sections posted. Students are welcome to attend other tutorials if they wish provided there is sufficient room. 
+- (01/29/2020) A reminder to please use your "@mcmaster.ca" address to communicate with me or your professors. Third-party addresses will be directed accordingly.
