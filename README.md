@@ -10,6 +10,8 @@ This is the tutorial(s) homepage for MATH 1AA3 and 1ZB3 (Winter 2020) managed by
 - Office hours: Monday 2:30 PM - 3:30 PM, Friday 2:30 PM - 4:30 PM 
 
 ## Tutorial Sections
+Students are welcome to attend my other tutorials provided there is room.
+
 - Monday: 5:30 PM - 6:20 PM in TSH 120
 - Wednesday: 2:30 PM - 3:20 PM in JHE 376
 - Thursday: 6:00 PM - 7:00 PM in ITB AB102
