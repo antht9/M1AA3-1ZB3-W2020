@@ -30,13 +30,11 @@ Students are welcome to attend my other tutorials provided there is room.
 - (01/29/2020) A reminder to please use your "@mcmaster.ca" address to communicate with me or your professors. Third-party addresses will be directed accordingly.
 - (01/30/2020) A compact summary of Chapter 11, Sections 11.2 - 11.4 has been posted. Please feel free to provide any comments or feedback. 
 - (02/02/2020) Review sessions for Test 1...
-
-Thurs. Feb. 6
-   3:30-5:20pm
-   PGCLL B138
+-- Thurs. Feb. 6, 
+   3:30-5:20pm, 
+   PGCLL B138, 
    Anthony Tan
-
-Fri. Feb. 7
-   3:30-5:20pm
-   CNH104
+-- Fri. Feb. 7, 
+   3:30-5:20pm,
+   CNH104, 
    James Rooney
