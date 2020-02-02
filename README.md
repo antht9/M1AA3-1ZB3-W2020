@@ -9,7 +9,7 @@ This is the tutorial(s) homepage for MATH 1AA3 and 1ZB3 (Winter 2020) managed by
 
 ## Contact Information
 - TA: Anthony Tan
-- E-mail: tana4@mcmaster.ca 
+- E-mail: tana4@mcmaster.ca (Please use your @mcmaster.ca e-mail address to communicate with me)
 - Office: Math Help Centre (Hamilton Hall, Room 104)
 - Office hours: Monday 2:30 PM - 3:30 PM, Friday 2:30 PM - 4:30 PM 
 
