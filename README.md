@@ -27,11 +27,15 @@ Students are welcome to attend my other tutorials provided there is room.
 
 ## Announcements
 
-- (01/16/2020) Tutorial 1 note posted. Feel free to provide any comments or feedback.
-- (01/20/2020) Tutorial 1 note reposted. Minor correction to exercise 1(b). Thank you for the catch!
-- (01/25/2020) Tutorial 2 note posted. 
-- (01/29/2020) Tutorial sections posted. Students are welcome to attend other tutorials if they wish provided there is sufficient room. 
-- (01/29/2020) A reminder to please use your "@mcmaster.ca" address to communicate with me or your professors. Third-party addresses will be directed accordingly.
-- (01/30/2020) A compact summary of Chapter 11, Sections 11.2 - 11.4 has been posted. Please feel free to provide any comments or feedback. 
-- (02/02/2020) Review sessions for Test 1 posted on https://ms.mcmaster.ca/~mcleac3/math1ZB3/mainCalc2.html
+- (02/06/2020) Review session notes posted. Tutorials 3 and 4 notes will be posted tomorrrow, 02/07/2020.
 - (02/02/2020) Please see above for the (NEW) notes policy.
+- (02/02/2020) Review sessions for Test 1 posted on https://ms.mcmaster.ca/~mcleac3/math1ZB3/mainCalc2.html
+- (01/30/2020) A compact summary of Chapter 11, Sections 11.2 - 11.4 has been posted. Please feel free to provide any comments or feedback. 
+- (01/29/2020) A reminder to please use your "@mcmaster.ca" address to communicate with me or your professors. Third-party addresses will be directed accordingly.
+- (01/29/2020) Tutorial sections posted. Students are welcome to attend other tutorials if they wish provided there is sufficient room. 
+- (01/25/2020) Tutorial 2 note posted. 
+- (01/20/2020) Tutorial 1 note reposted. Minor correction to exercise 1(b). Thank you for the catch!
+- (01/16/2020) Tutorial 1 note posted. Feel free to provide any comments or feedback.
+
+
+
