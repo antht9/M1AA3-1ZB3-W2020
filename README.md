@@ -25,7 +25,7 @@ Students are welcome to attend my other tutorials provided there is room.
 - Course webpage: https://ms.mcmaster.ca/~mcleac3/math1ZB3/mainCalc2.html
 
 
-## Announcements
+## Announcements 
 
 - (02/06/2020) Review session notes posted. Tutorials 3 and 4 notes will be posted tomorrrow, 02/07/2020.
 - (02/02/2020) Please see above for the (NEW) notes policy.
