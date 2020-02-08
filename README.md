@@ -27,7 +27,7 @@ Students are welcome to attend my other tutorials provided there is room.
 
 ## Announcements 
 
-- (02/08/2020) Tutorial 4 notes posted.
+- (02/08/2020) Tutorial 4 notes posted. Tutorial 3 re-posted with minor revisions.
 - (02/07/2020) Tutorial 3 notes posted.
 - (02/06/2020) Review session notes posted. Tutorials 3 will be posted tomorrow 02/07/2020.
 - (02/02/2020) Please see above for the (NEW) notes policy.
