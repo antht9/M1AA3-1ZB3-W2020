@@ -27,7 +27,9 @@ Students are welcome to attend my other tutorials provided there is room.
 
 ## Announcements 
 
-- (02/06/2020) Review session notes posted. Tutorials 3 and 4 notes will be posted tomorrrow, 02/07/2020.
+- (02/08/2020) Tutorial 4 notes posted.
+- (02/07/2020) Tutorial 3 notes posted.
+- (02/06/2020) Review session notes posted. Tutorials 3 will be posted tomorrow 02/07/2020.
 - (02/02/2020) Please see above for the (NEW) notes policy.
 - (02/02/2020) Review sessions for Test 1 posted on https://ms.mcmaster.ca/~mcleac3/math1ZB3/mainCalc2.html
 - (01/30/2020) A compact summary of Chapter 11, Sections 11.2 - 11.4 has been posted. Please feel free to provide any comments or feedback. 
