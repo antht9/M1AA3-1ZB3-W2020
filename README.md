@@ -3,8 +3,8 @@ URL: https://github.com/antht9/M1AA3-1ZB3-W2020/
 
 This is the tutorial(s) homepage for MATH 1AA3 and 1ZB3 (Winter 2020) managed by Anthony Tan. Students from any tutorial are welcome to utilize this page. If you have suggestions/feedback or see any typos, please notify me by e-mail using the address found below.
 
-## (NEW) Notes Policy
-- I will attempt to post tutorial notes at least one week after a tutorial week has been completed. This is subject to change depending on my time constraints.
+## Notes Policy
+- I will attempt to post tutorial notes *at least* one week (max. two) after a tutorial week has been completed. This is subject to change depending on my time constraints.
 
 
 ## Contact Information
@@ -27,6 +27,7 @@ Students are welcome to attend my other tutorials provided there is room.
 
 ## Announcements 
 
+- (02/19/2020) Study tips: http://pi.math.cornell.edu/~zakh/homeworkguide.pdf (by Professor Inna Zakharevich (Cornell))
 - (02/08/2020) Tutorial 4 notes posted. Tutorial 3 re-posted with minor revisions.
 - (02/07/2020) Tutorial 3 notes posted.
 - (02/06/2020) Review session notes posted. Tutorials 3 will be posted tomorrow 02/07/2020.
