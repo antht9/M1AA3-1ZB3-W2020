@@ -4,6 +4,7 @@ URL: https://github.com/antht9/M1AA3-1ZB3-W2020/
 This is the tutorial(s) homepage for MATH 1AA3 and 1ZB3 (Winter 2020) managed by Anthony Tan. Students from any tutorial are welcome to utilize this page. If you have suggestions/feedback or see any typos, please notify me by e-mail using the address found below.
 
 ## Notes Policy
+- UPDATE (03/03/2020): I am currently writing my master's thesis and so notes will be uploaded on a very conditional basis subject to my time constraints. Hope you all understand.
 - I will attempt to post tutorial notes *at least* one week (max. two) after a tutorial week has been completed. This is subject to change depending on my time constraints.
 
 
