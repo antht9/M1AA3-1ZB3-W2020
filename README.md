@@ -28,6 +28,7 @@ Students are welcome to attend my other tutorials provided there is room.
 
 ## Announcements 
 
+- (03/12/2020) Test #2 review notes posted.
 - (02/19/2020) Study tips: http://pi.math.cornell.edu/~zakh/homeworkguide.pdf (by Professor Inna Zakharevich (Cornell))
 - (02/08/2020) Tutorial 4 notes posted. Tutorial 3 re-posted with minor revisions.
 - (02/07/2020) Tutorial 3 notes posted.
