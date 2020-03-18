@@ -3,6 +3,9 @@ URL: https://github.com/antht9/M1AA3-1ZB3-W2020/
 
 This is the tutorial(s) homepage for MATH 1AA3 and 1ZB3 (Winter 2020) managed by Anthony Tan. Students from any tutorial are welcome to utilize this page. If you have suggestions/feedback or see any typos, please notify me by e-mail using the address found below.
 
+## IMPORTANT: PLEASE READ! (03/18/2020)
+- New announcement on https://ms.mcmaster.ca/~mcleac3/math1ZB3/mainCalc2.html regarding our changes in response to the COVID-19 situation. 
+
 ## Notes Policy (UPDATED: 03/10/2020)
 - I am currently writing my master's thesis and so notes will be uploaded on a very conditional basis subject to my time constraints. Hope you all understand.
 - I will attempt to post tutorial notes *at least* one week (max. two) after a tutorial week has been completed. This is subject to change depending on my time constraints.
@@ -28,6 +31,7 @@ Students are welcome to attend my other tutorials provided there is room.
 
 ## Announcements 
 
+- (03/18/2020) New announcement on https://ms.mcmaster.ca/~mcleac3/math1ZB3/mainCalc2.html regarding our changes in response to the COVID-19 situation. 
 - (03/12/2020) If notes aren't displaying in the browser, please download the .pdf file. Some files become larger when scanned with a higher resolution and with multiple pages.
 - (03/12/2020) Test #2 review notes posted.
 - (02/19/2020) Study tips: http://pi.math.cornell.edu/~zakh/homeworkguide.pdf (by Professor Inna Zakharevich (Cornell))
