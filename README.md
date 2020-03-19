@@ -3,7 +3,7 @@ URL: https://github.com/antht9/M1AA3-1ZB3-W2020/
 
 This is the tutorial(s) homepage for MATH 1AA3 and 1ZB3 (Winter 2020) managed by Anthony Tan. Students from any tutorial are welcome to utilize this page. If you have suggestions/feedback or see any typos, please notify me by e-mail using the address found below.
 
-## IMPORTANT: PLEASE READ! (03/18/2020)
+## IMPORTANT: PLEASE READ! (POSTED: 03/18/2020)
 - New announcement on https://ms.mcmaster.ca/~mcleac3/math1ZB3/mainCalc2.html regarding our changes in response to the COVID-19 situation. 
 
 ## Notes Policy (UPDATED: 03/10/2020)
