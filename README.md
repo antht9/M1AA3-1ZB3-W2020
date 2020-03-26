@@ -31,6 +31,7 @@ Students are welcome to attend my other tutorials provided there is room.
 
 ## Announcements 
 
+- (03/26/2020) A couple good questions from office hours were written up. Please have a look!
 - (03/18/2020) New announcement on https://ms.mcmaster.ca/~mcleac3/math1ZB3/mainCalc2.html regarding our changes in response to the COVID-19 situation. 
 - (03/12/2020) If notes aren't displaying in the browser, please download the .pdf file. Some files become larger when scanned with a higher resolution and with multiple pages.
 - (03/12/2020) Test #2 review notes posted.
