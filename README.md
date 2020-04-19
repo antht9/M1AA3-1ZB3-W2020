@@ -31,6 +31,7 @@ Students are welcome to attend my other tutorials provided there is room.
 
 ## Announcements 
 
+- (04/18/2020) April 18, 2020 office hours notes posted. PLEASE HAVE A LOOK! :)
 - (04/18/2020) Minor typo in the notation of the multivariate chain rule note. I will be posting a note from my office hours earlier today (12:00 pm - 2:00 pm). Hope you are all staying safe. It was a pleasure teaching you all, and I wish you all the best in your exam season. Take care, and stay safe all!
 - (03/26/2020) A couple good questions from office hours were written up. Please have a look!
 - (03/18/2020) New announcement on https://ms.mcmaster.ca/~mcleac3/math1ZB3/mainCalc2.html regarding our changes in response to the COVID-19 situation. 
